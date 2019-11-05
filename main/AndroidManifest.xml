@@ -3,6 +3,7 @@
     package="com.kylewickenheiser.helloandroid">
 <!--The manifest file is the jumping off point of an Android app. It sets permissions, labels, and holds all the key information needed for the app to launch-->
 <!--I didn't have to change anything in this file in order for the app to work -->
+    <!--New comment here-->
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
