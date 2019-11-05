@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiceSimulator</string>
+</resources>
+<!--Resources, in an android app like this are components that are important but which are often static in nature
+With the exception of the activity-main document, the only changes I made in the res folder were on line 2 of this document-->
